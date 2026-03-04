@@ -1,12 +1,12 @@
-name = "geothermal_registry"
-uuid = "8ec1b931-76ee-4e10-8f16-e2f14aa8c6a0"
-repo = "https://github.com/marcbasquensmunoz/geothermal_registry"
+name = "geothermal_registryFork"
+uuid = "103b2438-56a3-42f1-bd14-5daf73435e34"
+repo = "https://github.com/Bengt-Dahlgren-Stockholm-Geo/geothermal_registryFork"
 description = "A registry for the geothermal simulation packages"
 
 [packages]
 40984d4a-ff4b-5bb1-8527-cee9e1eb1c87 = { name = "BoreholeResponseFunctions", path = "B/BoreholeResponseFunctions" }
 4a85b913-23c3-4a93-8ceb-41888b61656c = { name = "BNSPythonAdapter", path = "B/BNSPythonAdapter" }
 64cfb1b1-06f0-48af-b80e-43c410dfe9e8 = { name = "FiniteLineSource", path = "F/FiniteLineSource" }
-b11dda51-a240-44f0-a43d-fea4e1309b86 = { name = "BoreholeNetworksSimulator", path = "B/BoreholeNetworksSimulator" }
+431bfe26-12a0-427e-b7e0-4e56bb62bb39 = { name = "BoreholeNetworksSimulatorFork", path = "B/BoreholeNetworksSimulatorFork" }
 bee248e1-b98f-493a-9b88-5d838671920e = { name = "BNSPlots", path = "B/BNSPlots" }
  
